@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2025-11-21T22:30:15Z",
+    "endpoint": "/api/payment",
+    "user": "john@corp.com",
+    "query": "SELECT * FROM users WHERE id='1' OR '1'='1'",
+    "response_code": 500,
+    "error": "SQL syntax error"
+  }
+]
