@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2025-11-21T22:29:00Z",
+    "user": "john@corp.com",
+    "ip": "103.21.244.10",
+    "location": "Mumbai, IN",
+    "action": "login_success",
+    "mfa": false
+  },
+  {
+    "timestamp": "2025-11-21T14:30:00Z",
+    "user": "john@corp.com",
+    "ip": "192.168.1.45",
+    "location": "New York, US",
+    "action": "login_success",
+    "mfa": true
+  }
+]
